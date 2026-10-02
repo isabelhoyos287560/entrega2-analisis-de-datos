@@ -54,4 +54,4 @@ Los notebooks se ejecutan en orden y despues los datos se descargan automáticam
 
 ## Video
 
-[Video explicativo del proyecto] (https://youtu.be/HErgdeu3mMI)
+[Video explicativo del proyecto](https://youtu.be/HErgdeu3mMI)
